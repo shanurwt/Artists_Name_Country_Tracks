@@ -1,5 +1,5 @@
 # Name-Guesser
-A webpage, which will guess the names using Ajax and PHP
+A webpage, which will shw artist name using ajax
 
 
-# JS used - 69%
+# funfact - JS used = 69%
